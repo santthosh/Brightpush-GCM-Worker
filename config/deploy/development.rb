@@ -7,5 +7,5 @@ ssh_options[:user] = "ubuntu"
 ssh_options[:keys] = ["/data/ops/aws-keys/us-west-oregon/brightpush-workers.pem"]
 
 set :bucket_name,"alpha_brightpush_c2dm_token_txt"
-set :aws_access_key_id,"AKIAIERRYQXDX7KCTHPQ"
-set :aws_secret_access_key,"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"
+set :aws_access_key_id,"<AWS Key>"
+set :aws_secret_access_key,"<AWS Key>"
